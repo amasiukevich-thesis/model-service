@@ -1,0 +1,4 @@
+MODEL_DIR:      "ml_models"
+MODEL_VERSION:  "2023-07-20_19-46-53"
+MODEL_CLASS:    "lstm"
+N_FEATURES:  150
